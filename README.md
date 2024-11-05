@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/pjcesar-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pjcesar-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjcesar-dev&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloJunior16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloJunior16&layout=compact&langs_count=16&theme=dracula"/>
     </a>
 </div>
 
