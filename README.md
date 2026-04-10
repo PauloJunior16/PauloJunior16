@@ -17,7 +17,7 @@
  
  #### Social Medias
  <div style="display: inline_block">
-    <a href="https://www.linkedin.com/in/paulo-cesar-356016193/"><img aling="center" alt="Linkedin" title="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/paulo-cesar-356016193/" target="_blank"><img aling="center" alt="Linkedin" title="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
   
 
